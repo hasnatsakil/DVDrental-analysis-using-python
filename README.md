@@ -1,1 +1,1 @@
-# dvdrental_analysis-with-pandas-and-matplotlib
+# dvdrental sql data analysis with pandas and matplotlib
