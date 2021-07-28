@@ -12,4 +12,19 @@ The DVD rental database has many objects including:
 
 ![](images/screenshot.png)
 
-
+##Tools :
+<h3>
+  -Jupyter Notebook
+  -DataGrip
+  -pg admin
+  </h3>
+## language and libraries :
+<h3>
+  -Python
+  -postgresql
+  -numpy
+  -pandas
+  -matplotlib
+</h3>
+## Database :
+  <h3>-PostgreSQL</h3>
