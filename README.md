@@ -9,5 +9,5 @@ The DVD rental database has many objects including:
   -8 functions<br/>
   -1 domain<br/>
   -13 sequences<br/></h3>
-![image](https://user-images.githubusercontent.com/38702532/127327908-af59ab19-82b5-4e28-a56e-5840275a8293.png)
+![image](https://user-images.githubusercontent.com/38702532/127328201-f562b1f5-4fa2-425c-86b9-3b26c0bb2bf6.png)
 
