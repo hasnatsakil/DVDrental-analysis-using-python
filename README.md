@@ -1,2 +1,2 @@
-# dvdrental sql data analysis
+# DVDrental analysis
 
