@@ -12,19 +12,19 @@ The DVD rental database has many objects including:
 
 ![screenshot](https://user-images.githubusercontent.com/38702532/127332368-91d266e7-b2d0-4955-951a-fc1d878aca13.png)
 
-## Tools :
+<h1> Tools :
 <h3>
-  -Jupyter Notebook
-  -DataGrip
-  -pg admin
+  -Jupyter Notebook<br/>
+  -DataGrip<br/>
+  -pg admin<br/>
   </h3>
-## language and libraries :
+<h1> Language and libraries :
 <h3>
-  -Python
-  -postgresql
-  -numpy
-  -pandas
-  -matplotlib
+  -Python<br/>
+  -postgresql<br/>
+  -numpy<br/>
+  -pandas<br/>
+  -matplotlib<br/>
 </h3>
-## Database :
+<h1> Database :
   <h3>-PostgreSQL</h3>
