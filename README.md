@@ -9,7 +9,7 @@ The DVD rental database has many objects including:
   -8 functions<br/>
   -1 domain<br/>
   -13 sequences<br/></h3>
-![](images/dvd-rental-sample-database-diagram.png)
 
+![](images/dvd-rental-sample-database-diagram.png)
 
 
