@@ -10,7 +10,7 @@ The DVD rental database has many objects including:
   -1 domain<br/>
   -13 sequences<br/></h3>
 
-![](images/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/38702532/127332368-91d266e7-b2d0-4955-951a-fc1d878aca13.png)
 
 ## Tools :
 <h3>
