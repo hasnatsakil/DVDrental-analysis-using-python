@@ -12,7 +12,7 @@ The DVD rental database has many objects including:
 
 ![](images/screenshot.png)
 
-##Tools :
+## Tools :
 <h3>
   -Jupyter Notebook
   -DataGrip
